@@ -2,7 +2,7 @@ import requests
 
 AVAILABLE_CURRENCIES = {"USD", "EUR", "BRL"}
 
-API_KEY = "61ecba47e97a31540cefc6ad" 
+API_KEY = "SUA_API_KEY_AQUI" 
 API_URL = "https://v6.exchangerate-api.com/v6/{}/latest/{}"
 
 def convert_currency(amount, from_currency, to_currency):
