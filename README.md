@@ -50,7 +50,7 @@ API_KEY = "SUA_API_KEY_AQUI"
 python converter.py
 ```
 
-5. **Exemplo de uso**
+## 📝 Exemplo de uso
 
 ```
 Bem-vindo ao conversor de moedas!
